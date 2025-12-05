@@ -1,0 +1,42 @@
+# Core Data Processing
+pandas>=1.5.0
+numpy>=1.23.0
+
+# Persian NLP
+hazm>=0.7.0
+# parsivar  # alternative Persian NLP toolkit
+
+# Text Processing & Fuzzy Matching
+rapidfuzz>=2.13.0
+regex>=2022.10.0
+
+# Machine Learning
+scikit-learn>=1.2.0
+scipy>=1.10.0
+
+# Deep Learning & Transformers (for advanced experiments)
+torch>=2.0.0
+transformers>=4.25.0
+sentence-transformers>=2.2.0
+
+# Topic Modeling
+gensim>=4.3.0
+# bertopic>=0.14.0  # uncomment if using BERTopic
+
+# Visualization
+matplotlib>=3.6.0
+seaborn>=0.12.0
+plotly>=5.11.0
+wordcloud>=1.8.0
+
+# Dashboard
+streamlit>=1.20.0
+
+# Utilities
+python-dotenv>=0.21.0
+tqdm>=4.64.0
+
+# Testing
+pytest>=7.2.0
+pytest-cov>=4.0.0
+pyarrow>=10.0.0  
